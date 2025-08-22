@@ -32,17 +32,6 @@ ftse_aim_all_share_playwright.csv
 
 ---
 
-📂 Estructura
-
-├── App playwright.py
-├── ftse_all_share_playwright.csv   # salida ejemplo
-├── ftse_aim_all_share_playwright.csv
-├── requirements.txt
-└── README.md
-
-
----
-
 📜 Licencia
 
 Mi proyecto se distribuye bajo licencia MIT.
